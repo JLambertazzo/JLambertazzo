@@ -1,9 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **[FourQuadrant](https://github.com/judy-n/FourQuadrant)**
-- 🌱 I’m currently getting more involved in open source
+- 🌱 Learning to maintain open source with **[ListExtender](https://github.com/JLambertazzo/ListExtender)**
 - 📫 How to reach me: **jbertazzolambert@gmail.com**
 <!-- - 😄 Pronouns: He/Him -->
-<!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about  -->
 <!-- - ⚡ Fun fact:  -->
